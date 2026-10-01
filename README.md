@@ -1,4 +1,31 @@
 # DA_ASP
+## Git
+```
+# 1. Chuyển đến thư mục code (nếu chưa ở trong đó)
+cd path/to/your/folder
+
+# 2. Khởi tạo Git repository local
+git init
+
+# 3. Thêm toàn bộ file trong thư mục vào khu vực chuẩn bị commit
+git add .
+
+# 4. Lưu lại thông tin thay đổi (Commit)
+git commit -m "Initial commit"
+```
+# 1. Đổi tên nhánh mặc định thành main (nếu chưa phải main)
+``git branch -M main``
+
+# 2. Liên kết kho lưu trữ dưới máy với GitHub
+``git remote add origin https://github.com/ten-user/my-project.git``
+
+# 3. Đẩy code lên GitHub
+``git push -u origin main``
+``
+git add .
+git commit -m "Mô tả những thay đổi vừa thực hiện"
+git push
+``
 ## HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 • Công nghệ cốt lõi: ASP.NET Core (MVC hoặc Razor Pages), Entity Framework
 Core, SQL Server.
