@@ -1,10 +1,10 @@
 # DA_ASP
-HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
+##HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 • Công nghệ cốt lõi: ASP.NET Core (MVC hoặc Razor Pages), Entity Framework
 Core, SQL Server.
 • Tài nguyên đầu vào: Bộ giao diện tĩnh (HTML, CSS, JS, Images) cho cả trang người
 dùng (Client) và trang quản trị (Admin) đã được cung cấp sẵn.
-1. Yêu cầu Chức năng (Functional Requirements)
+### 1. Yêu cầu Chức năng (Functional Requirements)
 Phân hệ Người dùng (Client)
 Hiển thị sản phẩm:
 • Tích hợp giao diện hiển thị danh sách tất cả sản phẩm.
@@ -34,7 +34,7 @@ Quản lý Đơn hàng (Orders):
 • Xem danh sách các đơn hàng khách đã đặt.
 • Xem chi tiết sản phẩm của từng đơn hàng.
 • Cập nhật trạng thái đơn hàng (Ví dụ: Chờ xử lý → Đang giao → Hoàn thành / Đã hủy).
-2. Yêu cầu Kỹ thuật & Tích hợp
+### 2. Yêu cầu Kỹ thuật & Tích hợp
 Tích hợp Giao diện (UI Integration):
 • Chuyển đổi bộ mã HTML/CSS tĩnh thành các Razor Views (.cshtml).
 • Tách các thành phần dùng chung như Header, Footer, Sidebar, Menu vào file
@@ -48,7 +48,7 @@ Xử lý Dữ liệu & Bảo mật cơ bản:
 sản phẩm không được để trống, số điện thoại phải đúng định dạng).
 • Yêu cầu đăng nhập tài khoản Admin (Authentication đơn giản) trước khi cho phép truy
 cập vào các trang quản lý.
-3. Cấu trúc Bàn giao (Deliverables)
+### 3. Cấu trúc Bàn giao (Deliverables)
 • Mã nguồn: Toàn bộ source code dự án ASP.NET Core (đã xóa các thư mục bin, obj
 để giảm dung lượng).
 • Cơ sở dữ liệu: File script (.sql) để khởi tạo database và dữ liệu mẫu, hoặc đảm bảo
