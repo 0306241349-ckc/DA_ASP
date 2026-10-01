@@ -1,4 +1,4 @@
-# DA_ASP
+# DA_ASP - HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 ## Git
 
 ```
@@ -32,7 +32,6 @@ git add .
 git commit -m "Mô tả những thay đổi vừa thực hiện"
 git push
 ``
-## HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 • Công nghệ cốt lõi: ASP.NET Core (MVC hoặc Razor Pages), Entity Framework
 Core, SQL Server.
 • Tài nguyên đầu vào: Bộ giao diện tĩnh (HTML, CSS, JS, Images) cho cả trang người
@@ -81,7 +80,5 @@ cập vào các trang quản lý.
 để giảm dung lượng).
 • Cơ sở dữ liệu: File script (.sql) để khởi tạo database và dữ liệu mẫu, hoặc đảm bảo
 cấu hình EF Core Migrations có thể tự động tạo database (Update-Database).
-
-## HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 • Tài liệu: Báo cáo ngắn hoặc file README.md hướng dẫn cấu hình chuỗi kết nối
 (Connection String) và cách chạy dự án.
