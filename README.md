@@ -13,13 +13,13 @@ git add .
 # 4. Lưu lại thông tin thay đổi (Commit)
 git commit -m "Initial commit"
 ```
-# 1. Đổi tên nhánh mặc định thành main (nếu chưa phải main)
+## 1. Đổi tên nhánh mặc định thành main (nếu chưa phải main)
 ``git branch -M main``
 
-# 2. Liên kết kho lưu trữ dưới máy với GitHub
+## 2. Liên kết kho lưu trữ dưới máy với GitHub
 ``git remote add origin https://github.com/ten-user/my-project.git``
 
-# 3. Đẩy code lên GitHub
+## 3. Đẩy code lên GitHub
 ``git push -u origin main``
 ``
 git add .
