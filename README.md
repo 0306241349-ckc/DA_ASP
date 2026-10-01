@@ -31,8 +31,8 @@ git commit -m "Initial commit"
   git commit -m "Mô tả những thay đổi vừa thực hiện"
   git push
   ```
-  • Công nghệ cốt lõi: ASP.NET Core (MVC hoặc Razor Pages), Entity Framework Core, SQL Server.
-  • Tài nguyên đầu vào: Bộ giao diện tĩnh (HTML, CSS, JS, Images) cho cả trang người dùng (Client) và trang quản trị (Admin) đã được cung cấp sẵn.
+    • Công nghệ cốt lõi: ASP.NET Core (MVC hoặc Razor Pages), Entity Framework Core, SQL Server.
+    • Tài nguyên đầu vào: Bộ giao diện tĩnh (HTML, CSS, JS, Images) cho cả trang người dùng (Client) và trang quản trị (Admin) đã được cung cấp sẵn.
 ## 1. Yêu cầu Chức năng (Functional Requirements)
   ### Phân hệ Người dùng (Client)
   ### Hiển thị sản phẩm:
