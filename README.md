@@ -1,5 +1,11 @@
 # DA_ASP
 ## Git
+
+```
+  git config --global user.name "0306241349-ckc"
+  git config --global user.email "0306241349@caothang.edu.vn"
+```
+
 ```
 # 1. Chuyển đến thư mục code (nếu chưa ở trong đó)
 cd path/to/your/folder
