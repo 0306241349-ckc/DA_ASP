@@ -54,9 +54,8 @@ Ghi chú).
 dữ liệu.
 • Hiển thị trang thông báo đặt hàng thành công và làm sạch giỏ hàng.
 ### Phân hệ Quản trị (Admin)
-Quản lý Danh mục (Categories):
+### Quản lý Danh mục (Categories):
 • Thêm mới, xem danh sách, cập nhật và xóa danh mục sản phẩm.
-## HỆ THỐNG WEBSITE GIỚI THIỆU SẢN PHẨM VÀ ĐẶT HÀNG
 ### Quản lý Sản phẩm (Products):
 • Thêm mới sản phẩm (bao gồm chức năng upload hình ảnh và lưu file vào thư mục wwwroot/images).
 • Xem, sửa, xóa thông tin sản phẩm.
